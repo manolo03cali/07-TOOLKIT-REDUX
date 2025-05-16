@@ -20,3 +20,9 @@ yarn add react-redux
 
 instrucciones para implementar el store
 https://redux-toolkit.js.org/tutorials/quick-start
+
+Instalamos Axios para hacer la petición usando esta herramienta en lugar de fetch:
+
+yarn add axios
+
+Ojo hay varios ejercicios
