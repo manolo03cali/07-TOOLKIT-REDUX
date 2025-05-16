@@ -25,4 +25,4 @@ Instalamos Axios para hacer la petición usando esta herramienta en lugar de fet
 
 yarn add axios
 
-Ojo hay varios ejercicios
+Ademas tambien usamos el RTK Query y consumimos una api mediante custom hook
